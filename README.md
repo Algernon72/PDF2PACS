@@ -39,10 +39,9 @@ The application automatically encapsulates PDF files into the DICOM format, so t
 
 This makes the project suitable both as a production tool in small/medium radiology departments and as a learning resource for developers exploring DICOM communication and PACS integration.  
 
----
 
-## 🖼️ Screenshot  
-![PDF2PACS](https://github.com/Algernon72/PDF2PACS/blob/main/PDF2PACS.png?raw=true)
+
+
 
 
 
@@ -53,7 +52,6 @@ This makes the project suitable both as a production tool in small/medium radiol
 - Windows, macOS, or Linux  
 
 **Python dependencies:**  
-```
 
 pydicom
 requests
@@ -62,6 +60,9 @@ tkinter
 ````
 
 ---
+
+## 🖼️ Screenshot  
+![PDF2PACS](https://github.com/Algernon72/PDF2PACS/blob/main/PDF2PACS.png?raw=true)
 
 🚀 Installation  
 
