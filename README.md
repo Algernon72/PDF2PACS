@@ -42,7 +42,7 @@ This makes the project suitable both as a production tool in small/medium radiol
 ---
 
 ## 🖼️ Screenshot  
-![PDF2PACS](https://github.com/user-attachments/assets/3731f8b6-2d93-4d2a-8d85-827dc5ff7432)
+![PDF2PACS](assets/PDF2PACS.jpg)
 
 
 
