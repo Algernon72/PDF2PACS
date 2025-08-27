@@ -1,10 +1,10 @@
-## 🖼️ Screenshot  
-![PDF2PACS](https://github.com/Algernon72/PDF2PACS/blob/main/PDF2PACS.png?raw=true)
+
+  ![PDF2PACS](https://github.com/Algernon72/PDF2PACS/blob/main/PDF2PACS.png?raw=true)
 
 ```markdown
 📂 PDF2PACS  
 
-**PDF2PACS** is a lightweight desktop application that allows healthcare professionals to easily upload PDF documents into a PACS archive.  
+**PDF2PACS** is a desktop application that allows healthcare professionals to easily upload PDF documents into a PACS archive.  
 It encapsulates PDFs as DICOM objects and sends them via C-STORE to the configured PACS.  
 
 ---
