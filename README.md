@@ -42,10 +42,9 @@ This makes the project suitable both as a production tool in small/medium radiol
 ---
 
 ## 🖼️ Screenshot  
+![PDF2PACS](https://github.com/user-attachments/assets/3731f8b6-2d93-4d2a-8d85-827dc5ff7432)
 
-Here is the main interface of **PDF2PACS**:  
 
-![PDF2PACS Screenshot](assets/PDF2PACS.jpg)
 
 ## ⚙️ Requirements  
 
@@ -83,7 +82,7 @@ pip install -r requirements.txt
 Run the application with:
 
 ```bash
-python pdf2pacs.py
+python Modality_pdf_uploader.py
 ```
 
 Steps:
@@ -92,11 +91,7 @@ Steps:
 2. Configure PACS settings (IP, Port, AE Title) in the settings menu
 3. Select one or more PDF files
 4. Click **Invia a Orthanc** to encapsulate and send to PACS
-
 ---
-
-Perfetto 💡
-Se hai già aggiunto al repo un **file `.bat`** e un **file `.spec`** per creare l’eseguibile compatto, allora la sezione del README può essere scritta in questo modo (Markdown pronto):
 
 ````markdown
 ## 🛠️ Build Instructions  
