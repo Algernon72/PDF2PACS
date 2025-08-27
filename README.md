@@ -45,7 +45,7 @@ This makes the project suitable both as a production tool in small/medium radiol
 
 Here is the main interface of **PDF2PACS**:  
 
-![PDF2PACS Screenshot](assets/screenshot.png)  
+![PDF2PACS Screenshot](assets/PDF2PACS.jpg)  
 
 ---
 
